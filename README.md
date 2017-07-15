@@ -12,6 +12,10 @@ There are some codes about python spider
 
    Get the ranking of universities in china in 2017
 
+- [**Query For IP Address**](https://github.com/mental2008/python_spider/blob/master/QueryForIPAddress/query.py)
+
+   You can input the IP address or domain name, then you can get the specific information about it
+
 ## How to run these projects
 
 - Download the corresponding `.py` file
