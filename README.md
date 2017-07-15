@@ -12,13 +12,13 @@ There are some codes about python spider
 
    Get the ranking of universities in china in 2017
 
-   ![example](RankingOfUniversitiesInChina\example.png)
+   ![example](https://github.com/mental2008/python_spider/blob/master/RankingOfUniversitiesInChina/example.png)
 
 - [**Query For IP Address**](https://github.com/mental2008/python_spider/blob/master/QueryForIPAddress/query.py)
 
    You can input the IP address or domain name, then you can get the specific information about it
 
-   ![example](QueryForIPAddress\example.png)
+   ![example](https://github.com/mental2008/python_spider/blob/master/QueryForIPAddress/example.png)
 
    ​
 
