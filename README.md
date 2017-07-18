@@ -20,7 +20,9 @@ There are some codes about python spider
 
    ![example](https://github.com/mental2008/python_spider/blob/master/QueryForIPAddress/example.png)
 
-   ​
+- [**Spider Of ZF System**](https://github.com/mental2008/python_spider/blob/master/SpiderOfZFSystem/spider.py)
+
+   This is a spider which can get the academic achievements in the Zhengfang(*正方教务系统*) System(Only scut). You only need to input your studentID, password and the checkcode(will be shown as a picture), then you can get the whole results. Because I don't want to show my student account, there is no example...
 
 ## How to run these projects
 
