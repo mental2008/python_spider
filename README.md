@@ -24,6 +24,10 @@ There are some codes about python spider
 
    This is a spider which can get the academic achievements in the Zhengfang(*正方教务系统*) System(Only scut). You only need to input your studentID, password and the checkcode(will be shown as a picture), then you can get the whole results. Because I don't want to show my student account, there is no example...
 
+- [**Query For CET Score**](https://github.com/mental2008/python_spider/tree/master/QueryForCETScore)
+
+   This spider can help you query for your CET score. You only need to input your exam registration number and your name. This program will show your performance in the CET exam.
+
 ## How to run these projects
 
 - Download the corresponding `.py` file
